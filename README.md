@@ -1,0 +1,1 @@
+# quarkus-jaxb-camel-bug
